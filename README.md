@@ -1,0 +1,2 @@
+# Giphy API Project
+This is a simple webpage that uses the giphy API to display gifs related to a topic of the user choosing. The form on the page does simple validation of input. It won't accept blank input or input that matches a corresponding button already on the page. Click on an image to change between an animated and still image.
